@@ -24,14 +24,14 @@ import (
 	"time"
 
 	//change package directory. author: loushl
-	"github.com/hpb-project/go-hpb/common"
-	"github.com/hpb-project/go-hpb/common/mclock"
-	"github.com/hpb-project/go-hpb/event"
-	"github.com/hpb-project/go-hpb/log"
-	"github.com/hpb-project/go-hpb/p2p/discover"
-	"github.com/hpb-project/go-hpb/p2p/discv5"
-	"github.com/hpb-project/go-hpb/p2p/nat"
-	"github.com/hpb-project/go-hpb/p2p/netutil"
+	¡°go-hpb/common"
+	"go-hpb/common/mclock"
+	"go-hpb/event"
+	"go-hpb/log"
+	"go-hpb/p2p/discover"
+	"go-hpb/p2p/discv5"
+	"go-hpb/p2p/nat"
+	"go-hpb/p2p/netutil"
 )
 
 const (
